@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bill8575
 - 👀 I’m interested in Big Data, Security, Blockchain 
-- 🌱 I’m currently learning GoLang, Python
+- 🌱 I’m passionate about data modelling, database design and management
 - 💞️ I’m looking to collaborate on Interesting projects
 - 📫 How to reach me bill8575_1998@yahoo.com
 
